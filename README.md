@@ -46,7 +46,7 @@ Website: https://kingsatchar.netlify.app
 
 
 
-About Me.
+## About Me
 
 
 * Studying BSc Computer Science at the University of Venda.
