@@ -11,49 +11,37 @@
 ⸻
 
 <h2 align="center">Featured Projects</h2>
-<p align="center">A selection of projects I've built and contributed to.</p>
 
+Featured Projects
 
+MyTertiary ZA
 
-A South African tertiary education platform helping students explore universities and educational opportunities.
+A South African tertiary education platform designed to help students explore universities and educational opportunities.
 
-<p align="center">
-<a href="https://mytertiaryza.co.za">View Live Website</a>
+Website: https://mytertiaryza.co.za
 
+UNIVEN Safe
 
+A student-focused campus safety project designed to support incident reporting and access to assistance.
 
-A campus safety project designed to support student incident reporting and access to assistance.
+Repository: https://github.com/Siaga-h-mulalo/UNIVEN-SAFE
 
+Live Demo: https://siaga-h-mulalo.github.io/UNIVEN-SAFE/
 
-<a href="https://siaga-h-mulalo.github.io/UNIVEN-SAFE/">Live Demo</a> ·
-
-
+UNIVEN-HUB PWA
 
 A progressive web application project focused on university students.
 
-<p align="center">
-<a href="https://univenhub.netlify.app">View Live Website</a>
+Website: https://univenhub.netlify.app
 
-
+Kings Atchar
 
 A web project for an online food business.
 
-
-<a href="https://kingsatchar.netlify.app">View Live Website</a>
-
+Website: https://kingsatchar.netlify.app
 
 
-<p align="center">
-font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+UNIVEN;Software+Developer;Founder+%26+Developer+of+MyTertiary+ZA;Building+Technology+That+Matters" alt="Animated developer introduction" />
-</p>
 
-Hi, I’m Mulalo Siaga
-
-Computer Science Student at UNIVEN | Software Developer | Founder & Developer
-
-I am a Computer Science student at the University of Venda (UNIVEN), passionate about software engineering, problem-solving, and building technology that solves real-world problems.
-
-My journey is driven by continuous learning, innovation, and the ambition to become a skilled software engineer.
 
 About Me
 
