@@ -12,7 +12,7 @@
 
 <h2 align="center">Featured Projects</h2>
 
-Featured Projects
+
 
 MyTertiary ZA
 
@@ -43,7 +43,7 @@ Website: https://kingsatchar.netlify.app
 
 
 
-About Me
+<h2 align="center">ABOUT ME
 
 * Studying BSc Computer Science at the University of Venda.
 * Building web applications and software projects.
