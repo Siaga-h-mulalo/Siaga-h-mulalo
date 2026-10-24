@@ -70,7 +70,7 @@ My goal is to build useful technology, strengthen my engineering skills, and kee
 
 
 
-Tech Stack
+## Tech Stack
 
 Languages: Java, JavaScript, C++, Python
 
@@ -84,21 +84,21 @@ Core Concepts: Object-Oriented Programming, Data Structures, Algorithms, Databas
 
 
 
-Experience
+## Experience
 
 * Participated in the UNIVEN × CSIR CyberSecureTech Hackathon.
 * Developed technology projects addressing real-world challenges.
 * Tutor fellow students in Java programming.
 * Explore software development, web technologies, and database systems.
 
-Currently Learning
+## Currently Learning
 
 * Advanced Java and Object-Oriented Programming
 * Python
 * Software engineering
 * Artificial intelligence and cybersecurity
 
-My Goals
+## My Goals
 
 To become a highly skilled software engineer, develop impactful digital products, contribute to open-source projects, and continue growing academically and professionally.
 
