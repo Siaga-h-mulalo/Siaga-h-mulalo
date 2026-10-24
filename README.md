@@ -1,5 +1,65 @@
 <img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/cb149ea8-cb68-463e-9e53-f044caa084dd" />
 
+
+⸻
+
+<h2 align="center">Featured Projects</h2>
+<p align="center">A selection of projects I've built and contributed to.</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">MyTertiary ZA</h3>
+<a href="https://mytertiaryza.co.za">
+<img src="./mytertiary.png" alt="MyTertiary ZA website preview" width="100%">
+</a>
+
+A South African tertiary education platform helping students explore universities and educational opportunities.
+
+<p align="center">
+<a href="https://mytertiaryza.co.za">View Live Website</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">UNIVEN Safe</h3>
+<a href="https://siaga-h-mulalo.github.io/UNIVEN-SAFE/">
+<img src="./univen-safe.png" alt="UNIVEN Safe website preview" width="100%">
+</a>
+
+A campus safety project designed to support student incident reporting and access to assistance.
+
+<p align="center">
+<a href="https://siaga-h-mulalo.github.io/UNIVEN-SAFE/">Live Demo</a> ·
+<a href="https://github.com/Siaga-h-mulalo/UNIVEN-SAFE">Source Code</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">UNIVEN-HUB PWA</h3>
+<a href="https://univenhub.netlify.app">
+<img src="./univenhub.png" alt="UNIVEN-HUB PWA website preview" width="100%">
+</a>
+
+A progressive web application project focused on university students.
+
+<p align="center">
+<a href="https://univenhub.netlify.app">View Live Website</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Kings Atchar</h3>
+<a href="https://kingsatchar.netlify.app">
+<img src="./kings-atchar.png" alt="Kings Atchar website preview" width="100%">
+</a>
+
+A web project for an online food business.
+
+<p align="center">
+<a href="https://kingsatchar.netlify.app">View Live Website</a>
+</p>
+</td>
+</tr>
+</table>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+UNIVEN;Software+Developer;Founder+%26+Developer+of+MyTertiary+ZA;Building+Technology+That+Matters" alt="Animated developer introduction" />
 </p>
