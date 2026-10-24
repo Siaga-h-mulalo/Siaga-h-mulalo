@@ -1,5 +1,8 @@
 <img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/cb149ea8-cb68-463e-9e53-f044caa084dd" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+UNIVEN;Software+Developer;Founder+%26+Developer+of+MyTertiary+ZA;Building+Technology+That+Matters" alt="Animated developer introduction" />
+</p>
 
 Hi, I’m Mulalo Siaga
 
