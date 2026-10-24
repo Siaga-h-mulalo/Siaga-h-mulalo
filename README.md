@@ -114,46 +114,6 @@ Tools: Git, GitHub, VS Code, NetBeans
 
 Core Concepts: Object-Oriented Programming, Data Structures, Algorithms, Database Design
 
-Featured Projects
-
-MyTertiary ZA
-
-A South African tertiary education platform designed to help students explore universities and educational opportunities.
-
-Website: https://mytertiaryza.co.za
-
-UNIVEN Safe
-
-A student-focused campus safety project designed to support incident reporting and access to assistance.
-
-Repository: https://github.com/Siaga-h-mulalo/UNIVEN-SAFE
-
-Live Demo: https://siaga-h-mulalo.github.io/UNIVEN-SAFE/
-
-UNIVEN-HUB PWA
-
-A progressive web application project focused on university students.
-
-Website: https://univenhub.netlify.app
-
-Kings Atchar
-
-A web project for an online food business.
-
-Website: https://kingsatchar.netlify.app
-
-Dragon TurboTyping
-
-A typing game
-
-Website : https://siaga-h-mulalo.github.io/DragonTypingMaster/
-
-Dragon Tactics
-
-Sports Prediction Platform
-
-Website : https://siaga-h-mulalo.github.io/DT/
-
 
 
 Experience
