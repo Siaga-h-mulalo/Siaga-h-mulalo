@@ -1,5 +1,12 @@
 <img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/cb149ea8-cb68-463e-9e53-f044caa084dd" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+UNIVEN;Software+Developer;Founder+%26+Developer+of+MyTertiary+ZA;Building+Technology+That+Matters" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  Turning ideas into applications, one project at a time.
+</p>
 
 ⸻
 
@@ -81,6 +88,20 @@ About Me
 * Helping fellow students learn Java programming.
 * Always learning, building, and improving.
 
+---
+
+## My Developer Journey
+
+- **2025** — Began my Computer Science degree at the University of Venda (UNIVEN).
+- **2025** — Participated in the UNIVEN × CSIR CyberSecureTech Hackathon.
+- **2025–2026** — Built and developed projects spanning student platforms, web applications, and campus safety.
+- **2026 and beyond** — Continuing to grow in software engineering, algorithms, databases, and AI.
+
+My goal is to build useful technology, strengthen my engineering skills, and keep learning through real projects.
+
+
+
+
 Tech Stack
 
 Languages: Java, JavaScript, C++, Python
@@ -156,13 +177,24 @@ To become a highly skilled software engineer, develop impactful digital products
 I believe in starting from zero, learning consistently, and building something meaningful.
 
 Connect With Me
+---
 
-* GitHub: https://github.com/Siaga-h-mulalo
-* Website: https://mytertiaryza.co.za
-* Email: mulalosiaga269@gmail.com & mulalosiaga743@gmail.com
-* Phone/WhatsApp : 066 541 4390
-* LinkedIn : Mulalo Siaga
+<h2 align="center">Let's Connect</h2>
 
+<p align="center">
+  <a href="https://github.com/Siaga-h-mulalo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mytertiaryza.co.za">
+    <img src="https://img.shields.io/badge/Portfolio-1677FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:mulalosiaga743@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
