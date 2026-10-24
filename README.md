@@ -211,35 +211,5 @@ Connect With Me
 
 
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>MyTertiary ZA</h3>
-      A South African tertiary education platform connecting students with university information and educational opportunities.
-      <br/><br/>
-      <a href="https://mytertiaryza.co.za">Visit Website</a>
-    </td>
-    <td width="50%">
-      <h3>UNIVEN Safe</h3>
-      A campus safety project designed to support student incident reporting and access to assistance.
-      <br/><br/>
-      <a href="https://github.com/Siaga-h-mulalo/UNIVEN-SAFE">View Repository</a> |
-      <a href="https://siaga-h-mulalo.github.io/UNIVEN-SAFE/">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>UNIVEN-HUB PWA</h3>
-      A progressive web application project for university students.
-      <br/><br/>
-      <a href="https://univenhub.netlify.app">Visit Website</a>
-    </td>
-    <td width="50%">
-      <h3>Kings Atchar</h3>
-      A web project for an online food business.
-      <br/><br/>
-      <a href="https://kingsatchar.netlify.app">Visit Website</a>
-    </td>
-  </tr>
-</table>
+
 
