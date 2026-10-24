@@ -176,6 +176,19 @@ To become a highly skilled software engineer, develop impactful digital products
 
 I believe in starting from zero, learning consistently, and building something meaningful.
 
+
+---
+<h2 align="center">My GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Siaga-h-mulalo/Siaga-h-mulalo/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
+
+
 Connect With Me
 ---
 
