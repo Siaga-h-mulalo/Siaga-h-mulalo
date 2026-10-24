@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Turning ideas into applications, one project at a time.
+  Turning ideas into applications.
 </p>
 
 ⸻
